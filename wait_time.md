@@ -4,6 +4,11 @@ AI For Mankind is not responsible for the accuracy of this crowdsourced data. AI
 
 
 
+Safeway castro valley 20 mins
+
+
+
+
 Cotsco dublin ca wait time 30 mins
 
 
