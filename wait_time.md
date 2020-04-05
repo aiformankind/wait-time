@@ -4,6 +4,11 @@ AI For Mankind is not responsible for the accuracy of this crowdsourced data. AI
 
 
 
+starbucks coffee wait for 15 min at 94116
+
+
+
+
 Costco livermore 30 mins
 
 
