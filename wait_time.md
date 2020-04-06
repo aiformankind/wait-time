@@ -4,6 +4,11 @@ Wait Time Now is not responsible for the accuracy of this crowdsourced data and 
 
 
 
+#### Kaiser Pharmacy 7601 Stoneridge Dr, Pleasanton, CA 94588 no wait submitted at 2020/04/06 15:07:14 PDT
+
+
+
+
 #### CVS Pharmacy 3667 Castro Valley Blvd, Castro Valley, CA 94546 5 mins wait submitted at 2020/04/06 12:06:32 PDT
 
 
