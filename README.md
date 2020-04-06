@@ -14,4 +14,4 @@ This is a hackathon project built by [Wei Shung Chung](https://www.linkedin.com/
 
 Note: You may incur messaging costs from your carrier. 
 
-#### [Contact Us](ai.for.mankind@gmail.com) if You Want to Sponsor this Project
+#### [Contact Us](ai.for.mankind@gmail.com) if You Want to Sponsor this Project. Your sponsorship will help keep this service running.
