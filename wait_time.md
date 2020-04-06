@@ -4,6 +4,11 @@ Wait Time Now is not responsible for the accuracy of this crowdsourced data and 
 
 
 
+#### CVS 3667 Castro Valley Blvd, Castro Valley, CA 94546 less than 5 mins submitted at 2020/04/06 12:40:15 PDT
+
+
+
+
 #### CVS Pharmacy 3667 Castro Valley Blvd, Castro Valley, CA 94546 5 mins wait submitted at 2020/04/06 12:06:32 PDT
 
 
