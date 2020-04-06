@@ -4,9 +4,9 @@ Wait Time Now is built to crowdsource wait time to enter a store during Covid-19
 
 ## Share the wait time by TEXTing it to (415)319-9114
 
-#### TEXT format: Target 2800 Dublin Blvd Dublin CA 20 mins
+### TEXT format: Target 2800 Dublin Blvd Dublin CA 20 mins
 
-We collect the infos and share it on **[here](wait_time.md).**
+### [See all the wait times shared and collected here](wait_time.md)
 
 Thank you for helping our community in this time of need.
 
