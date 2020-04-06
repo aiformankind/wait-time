@@ -4,6 +4,11 @@ Wait Time Now is not responsible for the accuracy of this crowdsourced data and 
 
 
 
+#### Walmart 30 mins submitted at 2020/04/06 07:57:14
+
+
+
+
 #### Target 35 mins submitted at 2020/04/06 07:20:47
 
 
