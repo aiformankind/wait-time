@@ -4,6 +4,11 @@ Wait Time Now is not responsible for the accuracy of this crowdsourced data and 
 
 
 
+Costco livermore 1 hour submitted at 2020/04/06 07:10:28
+
+
+
+
 Costco 30 mins submitted at 2020/04/06 06:57:54
 
 
