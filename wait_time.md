@@ -4,6 +4,11 @@ Wait Time Now is not responsible for the accuracy of this crowdsourced data and 
 
 
 
+#### CVS Castro Valley Blvd 94546 no wait time submitted at 2020/04/06 17:34:54 PDT
+
+
+
+
 #### Rite Aid Castro Valley 94546 no wait submitted at 2020/04/06 17:01:38 PDT
 
 
