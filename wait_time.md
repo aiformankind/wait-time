@@ -4,6 +4,11 @@ Wait Time Now is not responsible for the accuracy of this crowdsourced data and 
 
 
 
+#### Rite Aid Castro Valley 94546 no wait submitted at 2020/04/06 17:01:38 PDT
+
+
+
+
 #### 3848 Castro Valley Blvd, Castro Valley, CA 94546 no wait submitted at 2020/04/06 17:01:36 PDT
 
 
