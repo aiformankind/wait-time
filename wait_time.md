@@ -4,6 +4,11 @@ Wait Time Now is not responsible for the accuracy of this crowdsourced data and 
 
 
 
+#### Testing submitted at 2020/04/06 21:00:10 PDT
+
+
+
+
 #### CVS Castro Valley Blvd 94546 no wait time submitted at 2020/04/06 17:34:54 PDT
 
 
