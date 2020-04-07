@@ -1,6 +1,6 @@
 # Welcome to Wait Time Now
 
-#### Wait Time Now is built to crowdsource wait time to enter a store during Covid-19 outbreak. 
+#### Wait Time Now is built to crowdsource wait time to enter a store or checkout during Covid-19 outbreak. 
 
 #### As many stores start to limit the number of people in their stores to enforce social distancing and prevent the spread of Covid-19, the queue to enter the store is getting longer. Many of us would like to get near real time infos about the wait time for stores before heading out.
 
