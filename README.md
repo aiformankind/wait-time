@@ -16,4 +16,8 @@ This is a hackathon project built by [Wei Shung Chung](https://www.linkedin.com/
 
 Note: You may incur messaging costs from your carrier. 
 
+#### Please scan the QR code below to make donation to keep this WaitTimeNow service up and running 
+
+![Please donate to keep this WaitTimeNow service up and running](donation.png) 
+
 #### [Contact Us](ai.for.mankind@gmail.com) if You Want to Sponsor this Project. Your sponsorship will help keep this service running.
